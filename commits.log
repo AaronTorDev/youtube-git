@@ -1,0 +1,104 @@
+commit 4a90582f381249d2be17af22e8d26e1494fe4fc6
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:42:56 2025 -0600
+
+    Agregando 2 Párrafos
+
+commit acc0fdac2a6260468bb16a553dd3d5b808177a7d
+Merge: d734ade 21e5f6e
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:36:53 2025 -0600
+
+    Resolviendo Conflicto en estaciones del año y fechas de inicio
+
+commit d734adecce871c9d9517244f7a2803747374298d
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:19:19 2025 -0600
+
+    agregando estaciones del año con fecha de inicio
+
+commit 21e5f6e8c50622d1c897bef0edf7243748104b80
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:19:19 2025 -0600
+
+    agregando estaciones del año
+
+commit 90d6cda56ca1897a3b6ea0cfb7f35e40226f57d2
+Merge: 1565634 f6dea4b
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:12:14 2025 -0600
+
+    Resolviendo Conflicto merge main html en el documento index.html
+
+commit f6dea4baa0991523919983581bf2d677dd11b79a
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 22:02:18 2025 -0600
+
+    agregando index.js al index.html
+
+commit 15656343a24030bb47ffca3b8f460919e960d5fd
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 21:59:27 2025 -0600
+
+    Agregando Style.css al index.html
+
+commit 29a41468b0e80d012991ec7cec7e71dcdba0a3eb
+Merge: 7d9f610 58f57f4
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 20:56:06 2025 -0600
+
+    Merge branch 'js'
+
+commit 58f57f489285b3e545edd755458e110a0b1e5eb3
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 20:51:18 2025 -0600
+
+    Creando Index.js
+
+commit 7d9f61057bb72aac7fa6784348817381b1bf65fe
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 20:46:04 2025 -0600
+
+    Creando Style.css
+
+commit edfbe8b42cc1169eac054bb52e8242553dd32f12
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 20:40:50 2025 -0600
+
+    Creando Archivo Index.html
+
+commit 73919910484b2a63a5d2f56994f55dc0be401f58
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 17:16:36 2025 -0600
+
+    agregando arhivos exe
+
+commit 0ca0c3f2924b853e8ccaf2f92f274ea37166364e
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 14:55:24 2025 -0600
+
+    Renombrando readme a README
+
+commit 259efe922d0384fac673ede12a21ea46e6c4a3a9
+Author: AaronTorDev <aarontordel1@gmail.com>
+Date:   Wed Mar 5 14:47:24 2025 -0600
+
+    Creando Licencia Del Reposotorio
+
+commit dfde5d746d2e8f9163476e292da19eb243348cdb
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 14:42:27 2025 -0600
+
+    Agregando Mas Contenido al Readme
+
+commit a27552aab1453aa5f3e5ce556cde6e82da5627fa
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 14:31:11 2025 -0600
+
+    Agregando Contenido Inicial al Readme
+
+commit 39f1aa84ceaf56018676b1e9fbedeb51424a839d
+Author: Aaron Tordel <aarontordel1@gmail.com>
+Date:   Wed Mar 5 14:27:02 2025 -0600
+
+    Primer Commit
